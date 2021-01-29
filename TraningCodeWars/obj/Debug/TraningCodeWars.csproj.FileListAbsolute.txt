@@ -1,0 +1,10 @@
+C:\Users\DenisioRodrigues\source\repos\TraningCodeWars\TraningCodeWars\bin\Debug\TraningCodeWars.exe.config
+C:\Users\DenisioRodrigues\source\repos\TraningCodeWars\TraningCodeWars\bin\Debug\TraningCodeWars.exe
+C:\Users\DenisioRodrigues\source\repos\TraningCodeWars\TraningCodeWars\bin\Debug\TraningCodeWars.pdb
+C:\Users\DenisioRodrigues\source\repos\TraningCodeWars\TraningCodeWars\obj\Debug\TraningCodeWars.csprojAssemblyReference.cache
+C:\Users\DenisioRodrigues\source\repos\TraningCodeWars\TraningCodeWars\obj\Debug\TraningCodeWars.csproj.CoreCompileInputs.cache
+C:\Users\DenisioRodrigues\source\repos\TraningCodeWars\TraningCodeWars\obj\Debug\TraningCodeWars.exe
+C:\Users\DenisioRodrigues\source\repos\TraningCodeWars\TraningCodeWars\obj\Debug\TraningCodeWars.pdb
+C:\Users\DenisioRodrigues\source\repos\TraningCodeWars\TraningCodeWars\bin\Debug\nunit.framework.dll
+C:\Users\DenisioRodrigues\source\repos\TraningCodeWars\TraningCodeWars\bin\Debug\nunit.framework.xml
+C:\Users\DenisioRodrigues\source\repos\TraningCodeWars\TraningCodeWars\obj\Debug\TraningCodeWars.csproj.CopyComplete
