@@ -50,8 +50,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Licao\DnaStrand.cs" />
+    <Compile Include="Licao\DuplicateEncodeKata.cs" />
     <Compile Include="Licao\FindTheParityOutlier.cs" />
     <Compile Include="Licao\kata.cs" />
+    <Compile Include="Licao\KataDivisors.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

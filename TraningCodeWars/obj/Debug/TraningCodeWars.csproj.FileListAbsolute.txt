@@ -8,3 +8,13 @@ C:\Users\DenisioRodrigues\source\repos\TraningCodeWars\TraningCodeWars\obj\Debug
 C:\Users\DenisioRodrigues\source\repos\TraningCodeWars\TraningCodeWars\bin\Debug\nunit.framework.dll
 C:\Users\DenisioRodrigues\source\repos\TraningCodeWars\TraningCodeWars\bin\Debug\nunit.framework.xml
 C:\Users\DenisioRodrigues\source\repos\TraningCodeWars\TraningCodeWars\obj\Debug\TraningCodeWars.csproj.CopyComplete
+D:\projetos\estudos\C#\CodeWars\TraningCodeWars\obj\Debug\TraningCodeWars.csprojAssemblyReference.cache
+D:\projetos\estudos\C#\CodeWars\TraningCodeWars\obj\Debug\TraningCodeWars.csproj.CoreCompileInputs.cache
+D:\projetos\estudos\C#\CodeWars\TraningCodeWars\obj\Debug\TraningCodeWars.exe
+D:\projetos\estudos\C#\CodeWars\TraningCodeWars\obj\Debug\TraningCodeWars.pdb
+D:\projetos\estudos\C#\CodeWars\TraningCodeWars\bin\Debug\TraningCodeWars.exe.config
+D:\projetos\estudos\C#\CodeWars\TraningCodeWars\bin\Debug\TraningCodeWars.exe
+D:\projetos\estudos\C#\CodeWars\TraningCodeWars\bin\Debug\TraningCodeWars.pdb
+D:\projetos\estudos\C#\CodeWars\TraningCodeWars\bin\Debug\nunit.framework.dll
+D:\projetos\estudos\C#\CodeWars\TraningCodeWars\bin\Debug\nunit.framework.xml
+D:\projetos\estudos\C#\CodeWars\TraningCodeWars\obj\Debug\TraningCodeWars.csproj.CopyComplete
