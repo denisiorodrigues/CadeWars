@@ -52,8 +52,11 @@
     <Compile Include="Licao\DnaStrand.cs" />
     <Compile Include="Licao\FindTheParityOutlier.cs" />
     <Compile Include="Licao\kata.cs" />
+    <Compile Include="Licao\Rot13.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SolucaoCodeWars\BestRot13.cs" />
+    <Compile Include="SolucaoCodeWars\DnaStrand.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
